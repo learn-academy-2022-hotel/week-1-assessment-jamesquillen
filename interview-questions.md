@@ -14,13 +14,13 @@ Researched answer:
 
 1. What is git? What is the difference between git and Github?
 
-Your answer:
+Your answer: Git and GitHub are two separate but closely related technologies that allow asynchronous remote programming. Git is a version control system (VCS) which allows for extremely fine-tuned control of making and tracking changes to one or multiple files, or combinations of files called repositories. It is like Microsoft Word's "track changes" but on steroids. While git is the locally installed software that does the heavy lifting of keeping track of changes made to files and branches of repositories, GitHub is a central, web-based location where repositories can be hosted by organizations, cloned by other GitHub members, and reviewed for merging and commenting. Git is like a car while GitHub is like a highway. They can both exist separately, but they're much more useful together. 
 
-Researched answer:
+Researched answer: 
 
 2. Which JavaScript operators will return a Boolean value?
 
-Your answer:
+Your answer: Comparison and Logical operators will return Boolean values. Comparison operators compare two values and determine if the results are true or false. Greater than (>) is an example of a Comparison operator. In the statement "6 > 10", the greater than operator tests to see if what is presented is true or fales. Because 6 is not greater than 10, this statement will result in a condition of being "false". Logical operators return Boolean values because they are looking to find the result of two or more comparison operators. 
 
 Researched answer:
 
