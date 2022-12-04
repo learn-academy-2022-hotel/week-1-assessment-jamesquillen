@@ -26,19 +26,19 @@ Researched answer:
 
 3. What is an index? What is the difference between index and value?
 
-Your answer:
+Your answer: An index is a location, or pointer, to a specific location in a string or an array. Indexes start at position 0 and proceed to the right of a string or an array for as many items are in the string or array. Values are the representation of certain objects such as variables or single data types themselves, like numbers. A number can be its own value while adding two numerical values can create a sum of those values, which is a value itself. Variables can be assigned values as well. A variable can be declared and assigned to a date type or function, amont other things. The value of that variable is not whatever was assigned to it.
 
 Researched answer:
 
 4. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
-Your answer:
+Your answer: Strings are as small as single characters or as long as novels, but they are alwasy surrounded by quotation marks. Anything can go between quotation marks and thus become a string. Something cannot be a string if it is not inside quotation marks. Arrays are similar to lists. Arrays can hold from zero to incredibly large numbers of items wihin them. Each item in an array can be unique. Any data type can occupy a space in an array. Arrays can also contain other arrays as some or all of their items. Strings and arrays have some characteristics in common. A major similarity between strings and arrays are there index systems. With both strings and arrays, one can access certain parts of each by referencing the index, or location, or characters or items within them. Referencing the first index position (0) or both a string and an array will display the first chcracter in a string or the first item in an array. A major difference between strings and arrays are the methods avaialable to each. Many methods available for strings is not available to arrays and vice verson. For example, the .toUpperCase() method is only available to strings, as trying to make elements of arrays upper case wouldn't make sense, logically. On the other hand, .sort() is only available to arrays, and not to strings. Fortunately, other mothods like .join() and .split() exist and allow one to convert strings into arrays and arrays into strings.
 
 Researched answer:
 
 5. Give a brief description of proper pair programming techniques. What are the roles of each person?
 
-Your answer:
+Your answer: Pair programming is a method of programming using two people in two separate, but defined, roles. The two roles in pair programming are the driver and the navigator. The driver has their hands on the keyboard and it is their responsibility to do the physical action of writing code to the text editor. The navigator's responsibility is to keep looking out at the big picture, keeping the driver on task and watching for typos and syntax errors. The system of checks and balances affords for fewer mistakes, better accuracy, and increased output. Two heads are usually better than one, and pair programming capitalizes on this idea. A pair stands a much greater chance of getting through a challenging coding problem than a single developer. With specific roles, each person can focus on their job but also provide support to the other when needed.
 
 Researched answer:
 

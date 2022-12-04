@@ -56,7 +56,7 @@ const weekendDays = ["saturday", "sunday"]
 // --------------------5) What will this log?
 
 const dataTypes = ["number", "string", "Boolean", "undefined"]
-console.log(typeof dataTypes.length)
+// console.log(typeof dataTypes.length)
 
 // a) Your answer: 4
 // b) Verify and explain:
